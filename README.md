@@ -1,4 +1,4 @@
-# ScriptStack.YAML
+# YAML
 
 Einfaches Plugin zum Arbeiten mit YAML Daten
 

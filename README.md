@@ -1,6 +1,6 @@
 # YAML
 
-Einfaches Plugin zum Arbeiten mit YAML Daten
+YAML functions using [YamlDotNet](https://github.com/aaubry/YamlDotNet).
 
 ```YAML
 ---
